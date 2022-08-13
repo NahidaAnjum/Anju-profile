@@ -4,7 +4,7 @@
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.comw3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open Sans">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -38,7 +38,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 
   <!-- Image header -->
   <header class="w3-display-container w3-wide" id="home">
-    <img class="w3-image" src="https://www.w3schools.com//jane.jpg" alt="Fashion Blog" width="1600" height="1060">
+    <img class="w3-image" src="https://www.w3schools.com/jane.jpg" alt="Fashion Blog" width="1600" height="1060">
     <div class="w3-display-left w3-padding-large">
       <h1 class="w3-text-white">Jane's</h1>
       <h1 class="w3-jumbo w3-text-white w3-hide-small"><b>FASHION BLOG</b></h1>
@@ -60,7 +60,7 @@ and is wrapped around the whole page content, except for the footer in this exam
         </div>
 
         <div class="w3-justify">
-          <img src="https://www.w3schools.com//girl_hat.jpg" alt="Girl Hat" style="width:100%" class="w3-padding-16">
+          <img src="https://www.w3schools.com/girl_hat.jpg" alt="Girl Hat" style="width:100%" class="w3-padding-16">
           <p><strong>More Hats!</strong> I am crazy about hats these days. Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor
             magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
           <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
@@ -70,7 +70,7 @@ and is wrapped around the whole page content, except for the footer in this exam
           <div class="w3-row w3-margin-bottom" id="demo1" style="display:none">
             <hr>
               <div class="w3-col l2 m3">
-                <img src="https://www.w3schools.com//avatar_smoke.jpg" style="width:90px;">
+                <img src="https://www.w3schools.com/avatar_smoke.jpg" style="width:90px;">
               </div>
               <div class="w3-col l10 m9">
                 <h4>George <span class="w3-opacity w3-medium">May 3, 2015, 6:32 PM</span></h4>
@@ -89,7 +89,7 @@ and is wrapped around the whole page content, except for the footer in this exam
         </div>
 
         <div class="w3-justify">
-          <img src="https://www.w3schools.com//man_hat.jpg" alt="Men in Hats" style="width:100%" class="w3-padding-16">
+          <img src="https://www.w3schools.com/man_hat.jpg" alt="Men in Hats" style="width:100%" class="w3-padding-16">
           <p><strong>Hats!</strong> The trend this summer is hats for men!</p>
           <p>Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies
             mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
@@ -102,7 +102,7 @@ and is wrapped around the whole page content, except for the footer in this exam
             <div class="w3-row">
               <hr>
               <div class="w3-col l2 m3">
-                <img src="https://www.w3schools.com//girl_train.jpg" style="width:90px;">
+                <img src="https://www.w3schools.com/girl_train.jpg" style="width:90px;">
               </div>
               <div class="w3-col l10 m9">
                 <h4>Amber <span class="w3-opacity w3-medium">April 26, 2015, 10:52 PM</span></h4>
@@ -111,7 +111,7 @@ and is wrapped around the whole page content, except for the footer in this exam
             </div>
             <div class="w3-row w3-margin-bottom">
               <div class="w3-col l2 m3">
-                <img src="https://www.w3schools.com//girl.jpg" style="width:90px;">
+                <img src="https://www.w3schools.com/girl.jpg" style="width:90px;">
               </div>
               <div class="w3-col l10 m9">
                 <h4>Angie <span class="w3-opacity w3-medium">April 23, 2015, 9:12 PM</span></h4>
@@ -130,7 +130,7 @@ and is wrapped around the whole page content, except for the footer in this exam
         </div>
 
         <div class="w3-justify">
-          <img src="https://www.w3schools.com//runway.jpg" alt="Runway" style="width:100%" class="w3-padding-16">
+          <img src="https://www.w3schools.com/runway.jpg" alt="Runway" style="width:100%" class="w3-padding-16">
           <p><strong>Dont miss!</strong> The runway in New York City this weekend is gonna be legendary!</p>
           <p>Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies
             mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
@@ -143,7 +143,7 @@ and is wrapped around the whole page content, except for the footer in this exam
             <hr>
             <div class="w3-row w3-margin-bottom">
               <div class="w3-col l2 m3">
-                <img src="https://www.w3schools.com//girl_mountain.jpg" style="width:90px;">
+                <img src="https://www.w3schools.com/girl_mountain.jpg" style="width:90px;">
               </div>
               <div class="w3-col l10 m9">
                 <h4>Jane <span class="w3-opacity w3-medium">April 10, 2015, 7:22 PM</span></h4>
@@ -152,7 +152,7 @@ and is wrapped around the whole page content, except for the footer in this exam
             </div>
             <div class="w3-row w3-margin-bottom">
               <div class="w3-col l2 m3">
-                <img src="https://www.w3schools.com//boy.jpg" style="width:90px;">
+                <img src="https://www.w3schools.com/boy.jpg" style="width:90px;">
               </div>
               <div class="w3-col l10 m9">
                 <h4>John <span class="w3-opacity w3-medium">April 8, 2015, 10:32 PM</span></h4>
@@ -161,7 +161,7 @@ and is wrapped around the whole page content, except for the footer in this exam
             </div>
             <div class="w3-row w3-margin-bottom">
               <div class="w3-col l2 m3">
-                <img src="https://www.w3schools.com//girl_hood.jpg" style="width:90px;">
+                <img src="https://www.w3schools.com/girl_hood.jpg" style="width:90px;">
               </div>
               <div class="w3-col l10 m9">
                 <h4>Anja <span class="w3-opacity w3-medium">April 7, 2015, 9:12 PM</span></h4>
@@ -179,7 +179,7 @@ and is wrapped around the whole page content, except for the footer in this exam
     <div class="w3-col l4">
       <!-- About Card -->
       <div class="w3-white w3-margin">
-        <img src="https://www.w3schools.com//avatar_girl2.jpg" alt="Jane" style="width:100%" class="w3-grayscale">
+        <img src="https://www.w3schools.com/avatar_girl2.jpg" alt="Jane" style="width:100%" class="w3-grayscale">
         <div class="w3-container w3-black">
           <h4>My Name</h4>
           <p>Just me, myself and I, exploring the universe of uknownment. I have a heart of love and a interest of lorem ipsum and mauris neque quam blog. I want to share my world with you.</p>
@@ -194,25 +194,25 @@ and is wrapped around the whole page content, except for the footer in this exam
         </div>
         <ul class="w3-ul w3-hoverable w3-white">
           <li class="w3-padding-16">
-            <img src="https://www.w3schools.com//avatar_smoke.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
+            <img src="https://www.w3schools.com/avatar_smoke.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
             <span class="w3-large">Denim</span>
             <br>
             <span>Sed mattis nunc</span>
           </li>
           <li class="w3-padding-16">
-            <img src="https://www.w3schools.com//bandmember.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
+            <img src="https://www.w3schools.com/bandmember.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
             <span class="w3-large">Sweaters</span>
             <br>
             <span>Praes tinci sed</span>
           </li>
           <li class="w3-padding-16">
-            <img src="https://www.w3schools.com//workshop.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
+            <img src="https://www.w3schools.com/workshop.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
             <span class="w3-large">Workshop</span>
             <br>
             <span>Ultricies congue</span>
           </li>
           <li class="w3-padding-16">
-            <img src="https://www.w3schools.com//avatar_smoke.jpg" alt="Image" class="w3-left w3-margin-right w3-sepia" style="width:50px">
+            <img src="https://www.w3schools.com/avatar_smoke.jpg" alt="Image" class="w3-left w3-margin-right w3-sepia" style="width:50px">
             <span class="w3-large">Trends</span>
             <br>
             <span>Lorem ipsum dipsum</span>
@@ -258,12 +258,12 @@ and is wrapped around the whole page content, except for the footer in this exam
         </div>
         <div class="w3-row-padding w3-white">
           <div class="w3-col s6">
-            <p><img src="https://www.w3schools.com//jeans.jpg" alt="Jeans" style="width:100%"></p>
-            <p><img src="https://www.w3schools.com//team1.jpg" alt="Jeans" style="width:100%"></p>
+            <p><img src="https://www.w3schools.com/jeans.jpg" alt="Jeans" style="width:100%"></p>
+            <p><img src="https://www.w3schools.com/team1.jpg" alt="Jeans" style="width:100%"></p>
           </div>
           <div class="w3-col s6">
-            <p><img src="https://www.w3schools.com//avatar_hat.jpg" alt="Men in Hats" style="width:100%" class="w3-grayscale"></p>
-            <p><img src="https://www.w3schools.com//team4.jpg" alt="Jeans" style="width:100%"></p>
+            <p><img src="https://www.w3schools.com/avatar_hat.jpg" alt="Men in Hats" style="width:100%" class="w3-grayscale"></p>
+            <p><img src="https://www.w3schools.com/team4.jpg" alt="Jeans" style="width:100%"></p>
          </div>
         </div>
       </div>
@@ -321,7 +321,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 <!-- Footer -->
 <footer class="w3-container w3-dark-grey" style="padding:32px">
   <a href="#" class="w3-button w3-black w3-padding-large w3-margin-bottom"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
-  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+  <p>Powered by <a href="https://www.w3schools.comw3css/default.asp" target="_blank">w3.css</a></p>
 </footer>
 
 <script>
