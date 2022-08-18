@@ -146,7 +146,7 @@ and is wrapped around the whole page content, except for the footer in this exam
                 <img src="https://www.w3schools.com/w3images/girl_mountain.jpg" style="width:90px;">
               </div>
               <div class="w3-col l10 m9">
-                <h4>Jane <span class="w3-opacity w3-medium">April 10, 2015, 7:22 PM</span></h4>
+                <h4>Anjum <span class="w3-opacity w3-medium">April 10, 2015, 7:22 PM</span></h4>
                 <p>That was a great runway show! Thanks for everything.</p>
               </div>
             </div>
