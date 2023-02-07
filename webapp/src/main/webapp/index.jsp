@@ -38,7 +38,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 
   <!-- Image header -->
   <header class="w3-display-container w3-wide" id="home">
-    <img class="w3-image" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmymodernmet.com%2Fwomens-fashion-history%2F&psig=AOvVaw0pgZLvdKJFYCDPEVIWuqBk&ust=1675883445469000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOD42L2OhP0CFQAAAAAdAAAAABAE" alt="Fashion Blog" width="1600" height="1060">
+    <img class="w3-image" src="https://mymodernmet.com/wp/wp-content/uploads/2017/07/womens-fashion-history.jpg" alt="Fashion Blog" width="1600" height="1060">
     <div class="w3-display-left w3-padding-large">
       <h1 class="w3-text-white">Anjum's</h1>
       <h1 class="w3-jumbo w3-text-white w3-hide-small"><b>FASHION BLOG</b></h1>
