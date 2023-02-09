@@ -40,8 +40,8 @@ and is wrapped around the whole page content, except for the footer in this exam
   <header class="w3-display-container w3-wide" id="home">
     <img class="w3-image" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/nyfwsketches-1567608885.jpg?crop=1.00xw:1.00xh;0,0&resize=980:*" alt="Fashion Blog" width="1600" height="1060">
     <div class="w3-display-left w3-padding-large">
-      <h1 class="w3-text-black">Anjum's</h1>
-      <h1 class="w3-jumbo w3-text-black w3-hide-small"><b>FASHION BLOG</b></h1>
+      <h1 class="w3-text-white">Anjum's</h1>
+      <h1 class="w3-jumbo w3-text-white w3-hide-small"><b>FASHION BLOG</b></h1>
       <h6><button class="w3-button w3-white w3-padding-large w3-large w3-opacity w3-hover-opacity-off" onclick="document.getElementById('subscribe').style.display='block'">SUBSCRIBE</button></h6>
     </div>
   </header>
