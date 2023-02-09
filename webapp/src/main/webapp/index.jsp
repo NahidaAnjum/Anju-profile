@@ -32,7 +32,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 
   <!-- Header -->
   <header class="w3-container w3-center w3-padding-48 w3-white">
-    <h1 class="w3-xxxlarge"><b>Anju's Fashion Life</b></h1>
+    <h1 class="w3-xxxlarge"><b>Anjum's Fashion Life</b></h1>
     <h6>Welcome to the blog of <span class="w3-tag">Anjum's fashion world</span></h6>
   </header>
 
